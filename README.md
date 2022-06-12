@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Decentit
+- 👀 I’m interested in Web Development, Mobile App Development
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on Diiferent Projects
+- 📫 How to reach me IG, Twitter @Decentitservice
